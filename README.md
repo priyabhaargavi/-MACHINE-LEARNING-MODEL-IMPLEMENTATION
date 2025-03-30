@@ -24,3 +24,5 @@ Model Selection For this project, the Multinomial Naive Bayes (NB) algorithm is 
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/50095b63-d741-4d73-8420-98ceeeff8aa3)
+
